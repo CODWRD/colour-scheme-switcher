@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: black;
+  margin: 6rem 2rem;
+  padding: 0;
+  text-align: center;
+}
+
+.heading {
+  font-size: 32px;
+  margin: 1rem;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.colour-ash {
+  background-color: rgb(74, 71, 71);
+  padding: 3rem 3rem;
+  margin: 1rem 1rem;
+  border-radius: 6rem;
+  border: none;
+}
+
+.colour-green {
+  background-color: green;
+  padding: 3rem 3rem;
+  margin: 1rem 1rem;
+  border-radius: 6rem;
+  border: none;
+}
+
+.colour-red {
+  background-color: red;
+  padding: 3rem 3rem;
+  margin: 1rem 1rem;
+  border-radius: 6rem;
+  border: none;
+}
+
+.colour-puple {
+  background-color: purple;
+  padding: 3rem 3rem;
+  margin: 1rem 1rem;
+  border-radius: 6rem;
+  border: none;
+}
+
+.reset {
+  margin: 5rem;
+  padding: 1rem;
+}
